@@ -1,4 +1,23 @@
 // Description:
+// In the magical world of Harry Potter, Hermione Granger is known for her intelligence and quick wit. She is often seen with a book in her hand, learning new spells and enchantments. One day, she comes across an ancient spell that can determine if two words are anagrams of each other. Intrigued by this, she decides to write a C program to check if two given strings are anagrams. Can you help Hermione write this program?
+
+// Input Format:
+// Two strings, each on a new line.
+
+// Output Format:
+// Prints “Anagram” if the two strings are anagrams of each other, otherwise prints “Not Anagram”.
+
+// Sample Input 1:
+// listen
+// silent
+
+// Sample Output 1:
+// Anagram
+
+// Explanation:
+// The strings “listen” and “silent” are anagrams as they contain the same characters but in a different order.
+
+// Note: This program is case-sensitive and does not ignore spaces or punctuation. For example, it would consider “Listen” and “Silent” as not anagrams because of the difference in case. Similarly, “Tom Marvolo Riddle” and “I am Lord Voldemort” would also be considered not anagrams because the program does not ignore spaces or punctuation.
 
 #include <stdio.h>
 #include <string.h>
