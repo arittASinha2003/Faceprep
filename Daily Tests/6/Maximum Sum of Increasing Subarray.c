@@ -17,9 +17,10 @@
 // 60
 
 // Explanation:
-// Here Increasing sub-sequence are
+// Here Increasing sub-sequence are:
 // 5 50
 // 10 20 30
+
 // 5 + 50 = 55
 // 10 + 20 + 30 = 60. So 60 is greater than 55.
 
