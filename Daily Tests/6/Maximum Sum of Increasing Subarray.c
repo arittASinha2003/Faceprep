@@ -22,7 +22,8 @@
 // 10 20 30
 
 // 5 + 50 = 55
-// 10 + 20 + 30 = 60. So 60 is greater than 55.
+// 10 + 20 + 30 = 60.
+// So 60 is greater than 55.
 
 // Test Case 1:
 
